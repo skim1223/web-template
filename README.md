@@ -10,5 +10,5 @@ Have you:
 - [x] made at least one change to the website to personalize it
 
 For my custom changes I:
-- Changed the color theme of the website.
-- Added a link to my Spotify account.
+- Changed the color theme of the website
+- Added a link to my Spotify account
